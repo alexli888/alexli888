@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science with a minor in Data Science.
 <!--
 **alexli888/alexli888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect with Me
+
+[<img src="github_icon.png" width="30">](https://github.com/yourusername) [<img src="linkedin_icon.png" width="30">](https://linkedin.com/in/yourusername) [<img src="gmail_icon.png" width="30">](mailto:youremail@gmail.com) [<img src="outlook_icon.png" width="30">](mailto:youremail@outlook.com)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
