@@ -14,4 +14,4 @@ I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science wit
 - Web Development
   
 ### Stats:
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexli888)](https://github.com/alexli888/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexli888&show_icons=true&theme=github_dark)](https://github.com/alexli888)
