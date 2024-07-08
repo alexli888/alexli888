@@ -6,7 +6,7 @@ I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science wit
 
 ### Connect with Me
 
-[<img src="github_icon.png" width="30">](https://github.com/yourusername) [<img src="linkedin_icon.png" width="30">](https://linkedin.com/in/yourusername) [<img src="gmail_icon.png" width="30">](mailto:youremail@gmail.com) [<img src="outlook_icon.png" width="30">](mailto:youremail@outlook.com)
+[<img src="github.jpg" width="30">](https://github.com/yourusername) [<img src="linkedin_icon.png" width="30">](https://linkedin.com/in/yourusername) [<img src="gmail_icon.png" width="30">](mailto:youremail@gmail.com) [<img src="outlook_icon.png" width="30">](mailto:youremail@outlook.com)
 
 
 - 🔭 I’m currently working on ...
