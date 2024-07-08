@@ -1,20 +1,17 @@
-## Hi there 👋
+# Hi there👋
 
-I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science with a minor in Data Science.
-<!--
-**alexli888/alexli888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Connect with Me
-
-[<img src="github.jpg" width="30">](https://github.com/yourusername) [<img src="linkedin_icon.png" width="30">](https://linkedin.com/in/yourusername) [<img src="gmail_icon.png" width="30">](mailto:youremail@gmail.com) [<img src="outlook_icon.png" width="30">](mailto:youremail@outlook.com)
+I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science with a minor in Data Science. I am Results-driven and a motivated professional with experience in Algorithms, Object-Oriented Programming, and Machine-Level Programming. A proactive problem solver with a strong commitment to achieving project goals and leveraging technical skills to drive innovation.
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-li-59471623a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexlibaobao@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook&logoColor=white)](mailto:ajli@wpi.edu)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests:
+- Software Engineering
+- Data Analysis
+- Machine Learning
+- Web Development
+  
+### Stats:
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexli888)](https://github.com/alexli888/github-readme-stats)
