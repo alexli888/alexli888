@@ -8,9 +8,9 @@ I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science wit
 
 
 ## Interests:
-- Software Engineering
 - Data Analysis
 - Machine Learning
+- Software Engineering
 - Web Development
   
 ### Stats:
